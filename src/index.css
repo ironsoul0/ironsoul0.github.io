@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /*font-family: 'El Messiri', sans-serif;*/
+  font-family: 'Alegreya Sans', sans-serif;
+  background-color: #E0EBE8;
+}
+
+@media screen and (max-width: 650px) {
+  body {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  body {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 415px) {
+  body {
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  body {
+    font-size: 7px;
+  }
+}

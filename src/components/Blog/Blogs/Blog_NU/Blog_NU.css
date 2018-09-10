@@ -1,0 +1,15 @@
+.imageWrapper {
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+.link {
+  color: black;
+  text-decoration: underline;
+}
+
+.content p {
+  font-size: 21px;
+  margin-top: 27px;
+}

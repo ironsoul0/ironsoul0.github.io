@@ -1,0 +1,28 @@
+.container {
+  text-align: center;  
+  padding-top: 40px;
+}
+
+.logo {
+  width: 140px;
+  height: 140px;
+}
+
+.heading {
+  color: #45B29A;
+  font-size: 28px;
+  margin-top: 24px;
+  margin-bottom: 5px;
+}
+
+.description {
+  line-height: 21px;
+  width: 85%;
+  max-width: 350px;
+  margin: 0 auto;
+  font-size: 19px;
+}
+
+.ironsoul {
+  color: #ED1F44;
+}
