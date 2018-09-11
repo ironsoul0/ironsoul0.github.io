@@ -1,13 +1,15 @@
 .container {
   background-color: #E0EBE8;
-  padding-top: 150px;
   text-align: center;
-  padding-bottom: 290px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .mainPart {
   display: inline-block;
   text-align: left;
+  margin-top: -120px;
 }
 
 .typist_name {
