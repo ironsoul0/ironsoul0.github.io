@@ -16,7 +16,7 @@ const Connections = (props) => {
               alt="Telegram"
             />
           </a>
-          <a href="https://vk.com/magictima" rel="noopener noreferrer" target="_blank">
+          <a href="https://vk.com/ironsoul0" rel="noopener noreferrer" target="_blank">
             <img
               src={require('../../../assets/images/vk.png')}
               className={styles.image}
@@ -25,14 +25,14 @@ const Connections = (props) => {
           </a>
         </div>
         <div className={styles.imagesSecond}>
-          <a href="https://www.linkedin.com/in/temirzhan-yussupov-a3a050100/" rel="noopener noreferrer" target="_blank" className={styles.linkedin}>
+          <a href="https://www.linkedin.com/in/ironsoul/" rel="noopener noreferrer" target="_blank" className={styles.linkedin}>
             <img
               src={require('../../../assets/images/linkedin.png')}
               className={styles.image}
               alt="LinkedIn"
             />
           </a>
-          <a href="https://www.instagram.com/yussupovtima/" rel="noopener noreferrer" target="_blank">
+          <a href="https://www.instagram.com/ironsoul0/" rel="noopener noreferrer" target="_blank">
             <img
               style={{ marginRight: '0px' }}
               src={require('../../../assets/images/instagram.png')}
