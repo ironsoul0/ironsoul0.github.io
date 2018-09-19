@@ -12,14 +12,14 @@ const Blogs = (props) => {
         blogButtonColor="#4299ED"
         to="/blog/N17R"
       />
-      {/*<BlogCard
+      <BlogCard
         imageSource={require('./Blog_NU/Blog_NU.png')}
         blogTitle="Поступление в Назарбаев Университет"
         blogDescription="Все, что связно со мной и этим чудесным местом :)"
         blogBackgroundColor="#66A7D5"
         blogButtonColor="#A8D7F9"
         to="/blog/NU"
-      />*/}
+      />
     </React.Fragment>
   );
 }
