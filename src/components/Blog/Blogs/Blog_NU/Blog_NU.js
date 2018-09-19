@@ -19,7 +19,7 @@ const Blog_NU = (props) => {
     >
       <div className={styles.content}>
         <p style={{ marginTop: '0px' }}>
-          Coming soon..
+          Nurik piska
         </p>
       </div>
     </BlogTemplate>
