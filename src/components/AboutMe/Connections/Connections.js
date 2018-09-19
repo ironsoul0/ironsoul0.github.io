@@ -9,7 +9,7 @@ const Connections = (props) => {
       </h2>
       <div className={styles.images}>
         <div className={styles.imagesFirst}>
-          <a href="https://t.me/roigold7" rel="noopener noreferrer" target="_blank" className={styles.telegram}>
+          <a href="https://t.me/ironsoul0" rel="noopener noreferrer" target="_blank" className={styles.telegram}>
             <img
               src={require('../../../assets/images/telegram.png')}
               className={styles.image}
