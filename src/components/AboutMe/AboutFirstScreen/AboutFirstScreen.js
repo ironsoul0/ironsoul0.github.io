@@ -6,7 +6,7 @@ const HEADER_HEIGHT = 120;
 
 class AboutFirstScreen extends Component {
   state = {
-    height: 0
+    height: window.innerHeight
   }
 
   componentDidMount() {
@@ -19,7 +19,7 @@ class AboutFirstScreen extends Component {
   }
 
   updateWindowDimensions() {
-    this.setState({ height: window.innerHeight });
+    //this.setState({ height: window.innerHeight });
   }
 
   render() {

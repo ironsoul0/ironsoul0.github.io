@@ -5,7 +5,7 @@ const Connections = (props) => {
   return (
     <div className={styles.container}>
       <h2 className={styles.heading}>
-        Как меня можно найти?
+        Keep in touch with me
       </h2>
       <div className={styles.images}>
         <div className={styles.imagesFirst}>

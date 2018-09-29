@@ -8,6 +8,8 @@
   font-size: 28px;
   margin-bottom: -15px;
   line-height: 27px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .skill {
@@ -21,6 +23,7 @@
 
 .skillContent {
   text-align: left;
+  max-width: 280px;
 }
 
 .skillImage {

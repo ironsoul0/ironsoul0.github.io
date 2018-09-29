@@ -10,12 +10,11 @@ const HelloWords = (props) => {
         className={styles.logo}
       />
       <h2 className={styles.heading}>
-        Привет!
+        Hi!
       </h2>
       <p className={styles.description}>
-        Меня зовут Юсупов Темиржан, a.k.a. <span className={styles.ironsoul}>ironsoul</span>.
-        Я люблю программировать, изучать и создавать
-        что-то ценное.
+        My name is Yussupov Temirzhan, a.k.a. <span className={styles.ironsoul}>ironsoul</span>.
+        I am a freshman student loving to code, discover and create valuable things.
       </p>
     </div>
   );

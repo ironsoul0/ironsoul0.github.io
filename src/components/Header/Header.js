@@ -16,14 +16,14 @@ const Header = (props) => {
           <nav className={styles.navigation}>
             <ul className={styles.navigationList}>
               <li className={styles.navigationItem}>
-                <NavLink className={styles.navigationLink} style={props.about ? {color: "#839B94"} : null} to="/">
-                  Обо мне
+                <NavLink className={styles.navigationLink} style={props.about ? { color: "#839B94" } : null} to="/">
+                  About me
                 </NavLink>
               </li>
               <li className={styles.navigationItem}>
-                <NavLink className={styles.navigationLink} style={props.about ? null : {color: "#839B94"}} to="/blog">
-                  Блог
-                </NavLink>
+                <a className={styles.navigationLink} style={props.about ? null : { color: "#839B94" }} href="https://ironsoul.me/CV.pdf" rel="noopener noreferrer" target="_blank">
+                  My CV
+                </a>
               </li>
             </ul>
           </nav>

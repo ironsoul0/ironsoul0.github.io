@@ -35,27 +35,27 @@ const Skills = (props) => {
   return (
     <div className={styles.container}>
       <h2 className={styles.heading}>
-        Чем я занимаюсь?
+        What I am passionate about?
       </h2>
       <Skill
         alt="Smartphone"
         src={require('../../../assets/images/smartphone.png')}
-        name="Мобильные приложения"
-        desc="Благодаря участию в nFactorial Incubator, я научился писать собственные кроссплатформенные приложения на React Native"
+        name="Mobile apps"
+        desc="As a participant of nFactorial Incubator, I learned how to create cross-platofrm mobile apps using React Native framework"
         shrinked
       />
       <Skill
         alt="Computer"
         src={require('../../../assets/images/coding.png')}
-        name="Адаптивные веб-сайты"
-        desc="Знание React позволяет мне с легкостью писать веб-сайты различного уровня сложности"
+        name="Responsive websites"
+        desc="Rapidly developing ReactJS framework allows me to create websites of different levels of complexity"
         reversed
       />
       <Skill
         alt="Code"
         src={require('../../../assets/images/browser.png')}
-        name="Олимпиады по программированию"
-        desc="В школьные годы, я активно принимал участие в олимпиадах разного уровня и продолжаю принимать участие в онлайн-соревнованиях до сих пор"
+        name="Competitive programming"
+        desc="Throughout my school years, I participated in a lot of programming competitions and I am still participating in online contests"
       />
     </div>
   );
