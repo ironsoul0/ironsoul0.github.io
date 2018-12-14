@@ -11,10 +11,10 @@ class App extends Component {
     return (
       <Router basename={process.env.PUBLIC_URL}>
         <Switch>
-          <Route path="/" component={AboutMe} exact />
-          <Route path="/blog" component={Blog} exact />
-          <Route path="/blog/N17R" component={Blog_N17R} exact />
-          <Route path="/blog/NU" component={Blog_NU} exact />
+          <Route path={process.env.PUBLIC_URL + '/'} component={AboutMe} exact />
+          <Route path={process.env.PUBLIC_URL + '/blog'} component={Blog} exact />
+          <Route path={process.env.PUBLIC_URL + '/blog/N17R'} component={Blog_N17R} exact />
+          <Route path={process.env.PUBLIC_URL + '/blog/NU'} component={Blog_NU} exact />
           <Route component={PageNotFound} />
         </Switch>
       </Router>
