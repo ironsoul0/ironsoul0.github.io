@@ -1,51 +1,25 @@
-.container {
-  background-color: rgba(224,235,232,0.8);
-  padding: 20px 0px;
-}
-
-.content {
-  width: 85%;
-  max-width: 900px;
+.header {
+  background-color: #242121;
+  position: fixed;
+  top: 0;
+  width: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  margin: 0 auto;
+  z-index: 100;
 }
 
 .logo {
-  width: 80px;
-  height: 80px;
+  font-family: 'Bree Serif', serif;
+  color: white;
+  margin-left: 5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 2em;
 }
 
-.navigation {
-  width: 50%;
-  max-width: 160px;
-}
-
-.navigationItem {
-  font-size: 18px;
-  transition: all .2s ease-in-out;
-}
-
-.navigationItem:hover {
-  transform: scale(1.05);
-}
-
-.navigationList {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  list-style-type: none;
-}
-
-.navigationLink {
-  text-decoration: none;
-  color: #5B0B23;
-  border: none;
-}
-
-@media screen and (max-width: 420px) {
-  .navigation {
-    max-width: 130px;
-  }
+.logoPicture {
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+  margin-top: 5px;
 }
