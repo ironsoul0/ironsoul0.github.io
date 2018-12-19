@@ -1,11 +1,9 @@
 {
-  "main.css": "static/css/main.659d19ef.css",
-  "main.css.map": "static/css/main.659d19ef.css.map",
-  "main.js": "static/js/main.9b5ef861.js",
-  "main.js.map": "static/js/main.9b5ef861.js.map",
-  "static\\media\\Blog_NU.png": "static/media/Blog_NU.93b6af34.png",
-  "static\\media\\Brothers.jpg": "static/media/Brothers.f1959273.jpg",
-  "static\\media\\Meeting.jpg": "static/media/Meeting.cadd2f9d.jpg",
-  "static\\media\\React_Top.png": "static/media/React_Top.5fc5183c.png",
-  "static\\media\\logo.png": "static/media/logo.9ba586b5.png"
+  "main.css": "static/css/main.ff145736.css",
+  "main.css.map": "static/css/main.ff145736.css.map",
+  "main.js": "static/js/main.953e896f.js",
+  "main.js.map": "static/js/main.953e896f.js.map",
+  "static\\media\\background-bg.jpg": "static/media/background-bg.c51ebccb.jpg",
+  "static\\media\\background-sm.jpg": "static/media/background-sm.e91a9bd8.jpg",
+  "static\\media\\ironman-logo.png": "static/media/ironman-logo.c3b8c9c4.png"
 }
