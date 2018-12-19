@@ -24,10 +24,10 @@ const AboutMe = (props) => {
           and sport. Feel free to message me ;)
         </p>
         <a href="https://t.me/ironsoul0" rel="noopener noreferrer" target="_blank" className={[styles.actionButton, styles.workWithMe].join(' ')}>
-          Work with me
+          Message me
         </a>
         <a href="https://ironsoul.me/CV.pdf" rel="noopener noreferrer" target="_blank" className={[styles.actionButton, styles.checkCV].join(' ')}>
-          MY CV
+          My CV
         </a>
       </div>
     </div>
