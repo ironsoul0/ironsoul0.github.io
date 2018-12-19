@@ -38,7 +38,7 @@
 }
 
 .checkCV {
-  background-color: rgba(143, 95, 244, 0.8);
+  background-color: rgba(45,125,199,0.8);
   margin-left: 25px;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .checkCV:before {
-  background: rgba(143, 95, 244, 1);
+  background-color: rgba(45,125,199,1);
 }
 
 .actionButton {
