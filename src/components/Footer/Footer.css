@@ -1,53 +1,15 @@
 .container {
-  background-color: #21364B;
+  background-color: #111111;
   display: flex;
-  justify-content: space-between;
-  padding: 19px 75px;
-  padding-bottom: 15px;
+  padding-top: 17px;
+  padding-bottom: 17px;
   align-items: center;
-}
-
-.info {
-  font-size: 15px;
-  color: white;
-  padding: 0;
-  margin: 0;
-}
-
-.heart {
-  color: #DF4242;
-  font-size: 18px;
+  font-family: 'Inconsolata', monospace;
 }
 
 .creator {
-  margin-bottom: 1.5px;
-}
-
-.linkNU {
-  text-decoration: none;
-  color: #fff;
-}
-
-@media screen and (max-width: 670px) {
-  .container {
-    padding-left: 35px;
-    padding-right: 35px;
-  }
-}
-
-@media screen and (max-width: 576px) {
-  .container {
-    display: block;
-    text-align: center;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  
-  .creator {
-    margin-bottom: 0px;
-  }
-
-  .info {
-    font-size: 14px;
-  }
+  width: 88%;
+  color: white;
+  margin: 0 auto;
+  font-size: 17px;
 }
