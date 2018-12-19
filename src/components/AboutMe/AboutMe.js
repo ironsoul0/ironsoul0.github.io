@@ -9,19 +9,19 @@ const AboutMe = (props) => {
       </h1>
       <div className={styles.infoAboutMe}>
         <p>
-          My name is Temirzhan Yussupov and I am currently 18
+          My name is Temirzhan Yussupov. I am currently 18
           years old. I am mostly interested in web development, as
-          well as having experience in mobile dev too :)
+          well as having experience in mobile dev and cybersecurity fields :)
         </p>
         <p>
           Until now, I participated in programming olympiads,
-          mostly coding in C++. I am now on the path to teach
-          myself not only how to solve problems but also
-          how to create something own.
+          mostly coding in C++. Now I am focused on developing
+          my skills to create real products by implementing my own
+          ideas.
         </p>
         <p>
           I am also intersted in magic tricks, playing guitar
-          and sport.
+          and sport. Feel free to message me ;)
         </p>
         <a href="https://t.me/ironsoul0" rel="noopener noreferrer" target="_blank" className={[styles.actionButton, styles.workWithMe].join(' ')}>
           Work with me

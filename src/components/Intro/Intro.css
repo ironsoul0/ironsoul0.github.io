@@ -1,3 +1,7 @@
+.wrapper {
+  background-color: #211d1c;
+}
+
 .container {
   background-image: url('../../assets/images/background-bg.jpg');
   background-position: center;
@@ -8,6 +12,7 @@
   font-family: 'Bree Serif', serif;
   font-size: 28px;
   margin-top: 60px;
+  animation: fade-in 3s ease both;
 }
 
 .intro {
@@ -19,7 +24,7 @@
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 1em;
-  animation: fade-in 3s ease both
+  animation: fade-in 3s ease both;
 }
 
 .me {

@@ -1,8 +1,8 @@
 .container {
   background-color: #111111;
   display: flex;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 17px;
+  padding-bottom: 17px;
   align-items: center;
   font-family: 'Inconsolata', monospace;
 }
