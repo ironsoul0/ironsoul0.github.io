@@ -93,12 +93,12 @@
   transition-timing-function: ease-out;
 }
 
-.actionButton:hover, .actionButton:focus, .actionButton:active {
+.actionButton:hover, .actionButton:focus:before, .actionButton:focus, .actionButton:active {
   color: white;
   border: none;
 }
 
-.actionButton:hover:before, .actionButton:focus:before, .actionButton:active:before {
+.actionButton:hover:before, .actionButton:active:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
   border: none;
@@ -116,5 +116,4 @@
     float: none;
     width: 100%;
   }
-
 }
