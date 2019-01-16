@@ -26,9 +26,9 @@ const AboutMe = (props) => {
         <a href="https://t.me/ironsoul0" rel="noopener noreferrer" target="_blank" className={[styles.actionButton, styles.workWithMe].join(' ')}>
           Message me
         </a>
-        <a href="https://ironsoul.me/CV.pdf" rel="noopener noreferrer" target="_blank" className={[styles.actionButton, styles.checkCV].join(' ')}>
+        {/* <a href="https://ironsoul.me/CV.pdf" rel="noopener noreferrer" target="_blank" className={[styles.actionButton, styles.checkCV].join(' ')}>
           My CV
-        </a>
+        </a> */}
       </div>
     </div>
   );
