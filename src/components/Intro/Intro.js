@@ -10,7 +10,7 @@ const Intro = (props) => {
             I'm ironsoul -
         </h1>
           <h1 className={styles.desc}>
-            A curious freshman loving to code and create.
+            Go and find a flag, dude ;)
         </h1>
         </div>
       </div>
