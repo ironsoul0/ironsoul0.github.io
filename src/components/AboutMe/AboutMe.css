@@ -1,6 +1,5 @@
 .container {
   width: 88%;
-  max-width: 1140px;
   padding-top: 80px;
   padding-bottom: 80px;
   font-family: 'Bree Serif', serif;
@@ -31,6 +30,11 @@
 
 .infoAboutMe p {
   margin-bottom: 20px;
+}
+
+.infoAboutMe span {
+  font-size: 19px;
+  margin-top: 5px;
 }
 
 .workWithMe {

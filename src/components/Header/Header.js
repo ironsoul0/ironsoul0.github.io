@@ -4,7 +4,7 @@ import styles from './Header.css';
 const Header = (props) => {
   return (
     <div className={styles.header}>
-      <a href="https://ironsoul.me" rel="noopener noreferrer" target="_blank" className={styles.logo}>
+      <a href="https://ironsoul.me" className={styles.logo}>
         ironsoul
       </a>
       <img
