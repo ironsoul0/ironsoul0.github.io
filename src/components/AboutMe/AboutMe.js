@@ -5,7 +5,7 @@ const AboutMe = (props) => {
   return (
     <div className={[styles.container, styles.clearfix].join(' ')}>
       <h1 className={styles.headingAboutMe}>
-        Who I am and what a hell are you doing there?
+        Who am I and what a hell are you doing here?
       </h1>
       <div className={styles.infoAboutMe}>
         <p>
