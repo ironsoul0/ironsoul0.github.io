@@ -9,7 +9,7 @@ const AboutMe = (props) => {
       </h1>
       <div className={styles.infoAboutMe}>
         <p>
-          I am a simple boy who wants to create something useful for people.
+          My name is Temirzhan Yussupov. I am a simple boy who wants to create something useful for people.
         </p>
         <p>
           Until now, I participated in programming olympiads,
