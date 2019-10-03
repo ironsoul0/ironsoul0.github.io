@@ -16,7 +16,7 @@ const Intro = (props) => {
             </WordSlider>
         </h1>
           <h1 className={styles.desc}>
-            18 years old inspired developer
+            19 years old inspired developer
           </h1>
         </div>
       </div>
