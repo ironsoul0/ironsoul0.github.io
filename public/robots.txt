@@ -1,1 +1,2 @@
-Wm14aFozc3dhQ3dnWkhWa015d2dlVEIxSUhJd1kydDk=
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
