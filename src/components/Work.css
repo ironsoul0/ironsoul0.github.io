@@ -1,0 +1,32 @@
+.work {
+  width: 48%;
+  height: 350px;
+}
+
+.wrapper {
+  overflow: hidden;
+  height: 100%;
+  display: block;
+}
+
+.work__image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: all .3s;
+  height: 100%;
+  width: 100%;
+}
+
+.work__image:hover {
+  transform: scale(1.05);
+}
+
+.work__name {
+  font-size: 22px;
+}
+
+.work__desc {
+  margin-top: -18px;
+  font-size: 15px;
+}
