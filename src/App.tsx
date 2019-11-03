@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import picture from "./assets/me.jpg";
+import mobilePicture from "./assets/me_mobile.jpg";
 import Work from "./components/Work";
 import bot from "./assets/indigo.svg";
 import hh from "./assets/headhunter.png";
@@ -9,13 +10,16 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header>
-        <img src={logo} className="header__logo" />
+        <a href="https://ironsoul.me">
+          <img src={logo} className="header__logo" />
+        </a>
         <a rel="noopener noreferrer" target="_blank" href="https://blog.ironsoul.me" className="header__link">
           Blog
         </a>
       </header>
       <main>
         <div className="main__content">
+          <img src={mobilePicture} className="main__picture-mobile" />
           <div className="main__left">
             <p className="main__entry">Glad to meet you, {`I'm`}</p>
             <h1 className="main__name">Temirzhan</h1>

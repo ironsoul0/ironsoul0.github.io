@@ -30,3 +30,28 @@
   margin-top: -18px;
   font-size: 15px;
 }
+
+@media screen and (max-width: 768px) {
+  .main__works h2, .main__contribution {
+    text-align: center;
+  }
+
+  .work {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 130px;
+  }
+
+  .work__name, .work__desc {
+    text-align: center;
+  }
+  
+  .work__image {
+    background-size: contain;
+  }
+
+  .work {
+    height: 300px;
+  }
+}
