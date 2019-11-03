@@ -27,7 +27,7 @@ const App: React.FC = () => {
             <h1 className="main__name" id="surname">
               Yussupov
             </h1>
-            <p>I am a programming enthuasist liking to create and code different things.</p>
+            <p>I am a programming enthusiast enjoying to create and code different things.</p>
             <p>Besides of programming, I am also interested in the magic art and travelling.</p>
             <a
               className="main__button workWithMe actionButton"
