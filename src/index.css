@@ -10,6 +10,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px 30px;
+  padding-top: 10px;
   margin-bottom: 100px;
 }
 
@@ -36,11 +37,11 @@ header {
   width: 150px;
 }
 
-.header__link {
-  text-decoration: none;
-  font-size: 18px;
-  color: rgba(0, 0, 0, 0.85);
-  font-weight: bold;
+.header__icon {
+  width: 35px;
+  height: auto;
+  display: inline-block;
+  margin-top: 10px;
 }
 
 .main__content {
@@ -188,7 +189,7 @@ header {
 
   .main__left {
     width: 100%;
-    max-width: 700px;
+    max-width: 400px;
     margin: 0 auto;
     text-align: center;
   }

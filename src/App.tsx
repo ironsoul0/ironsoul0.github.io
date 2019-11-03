@@ -5,21 +5,22 @@ import mobilePicture from "./assets/me_mobile.jpg";
 import Work from "./components/Work";
 import bot from "./assets/indigo.svg";
 import hh from "./assets/headhunter.png";
+import github from "./assets/github.svg";
 
 const App: React.FC = () => {
   return (
     <div className="App">
       <header>
         <a href="https://ironsoul.me">
-          <img src={logo} className="header__logo" />
+          <img src={logo} className="header__logo" alt="Logo" />
         </a>
-        <a rel="noopener noreferrer" target="_blank" href="https://blog.ironsoul.me" className="header__link">
-          Blog
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/ironsoul0">
+          <img src={github} className="header__icon" alt="GitHub" />
         </a>
       </header>
       <main>
         <div className="main__content">
-          <img src={mobilePicture} className="main__picture-mobile" />
+          <img src={mobilePicture} className="main__picture-mobile" alt="Me" />
           <div className="main__left">
             <p className="main__entry">Glad to meet you, {`I'm`}</p>
             <h1 className="main__name">Temirzhan</h1>
@@ -38,7 +39,7 @@ const App: React.FC = () => {
             </a>
           </div>
           <div className="main__right">
-            <img src={picture} className="main__picture" />
+            <img src={picture} className="main__picture" alt="Me" />
           </div>
         </div>
         <div className="main__works">
