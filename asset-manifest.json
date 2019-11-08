@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a75aa18.chunk.css",
+    "main.css": "/static/css/main.45ea1750.chunk.css",
     "main.js": "/static/js/main.c5e22c66.chunk.js",
     "main.js.map": "/static/js/main.c5e22c66.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de8dd1de.js",
@@ -8,9 +8,9 @@
     "static/js/2.7b9c9fd0.chunk.js": "/static/js/2.7b9c9fd0.chunk.js",
     "static/js/2.7b9c9fd0.chunk.js.map": "/static/js/2.7b9c9fd0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.09ba33454264188e115d4131f978b027.js": "/precache-manifest.09ba33454264188e115d4131f978b027.js",
+    "precache-manifest.6d48d37c723b3006949e9ebfa1b315c1.js": "/precache-manifest.6d48d37c723b3006949e9ebfa1b315c1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2a75aa18.chunk.css.map": "/static/css/main.2a75aa18.chunk.css.map",
+    "static/css/main.45ea1750.chunk.css.map": "/static/css/main.45ea1750.chunk.css.map",
     "static/media/github.svg": "/static/media/github.4ddb16ab.svg",
     "static/media/headhunter.png": "/static/media/headhunter.05b60c8c.png",
     "static/media/indigo.svg": "/static/media/indigo.cc57c067.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.de8dd1de.js",
     "static/js/2.7b9c9fd0.chunk.js",
-    "static/css/main.2a75aa18.chunk.css",
+    "static/css/main.45ea1750.chunk.css",
     "static/js/main.c5e22c66.chunk.js"
   ]
 }
