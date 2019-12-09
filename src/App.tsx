@@ -42,7 +42,7 @@ const App: React.FC = () => {
             <img src={picture} className="main__picture" alt="Me" />
           </div>
         </div>
-        <div className="main__works">
+        {/* <div className="main__works">
           <h2>Projects</h2>
           <p className="main__contribution">Something I have worked on or contributed to:</p>
           <div className="main__works-row">
@@ -54,7 +54,7 @@ const App: React.FC = () => {
             />
             <Work src={hh} desc="A communicative background game" name="HeadHunter" link="https://trytohunt.me" />
           </div>
-        </div>
+        </div> */}
       </main>
     </div>
   );
