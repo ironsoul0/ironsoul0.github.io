@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./logo.svg";
+import logo from "./Logo1.svg";
 import picture from "./assets/me.jpg";
 import mobilePicture from "./assets/me_mobile.jpg";
 import Work from "./components/Work";
