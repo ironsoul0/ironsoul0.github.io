@@ -65,3 +65,5 @@ function draw() {
   //   }
   // }
 }
+
+localStorage.setItem("token", "super_secret_xss");
