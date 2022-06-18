@@ -1,11 +1,11 @@
 {
-  "name": "Silver 3",
-  "description": "Silver 3",
+  "name": "Axis brain",
+  "description": "The geek brains of the geek personality.",
   "image": "https://ironsoul0.github.io/silver/brain3.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 15
     }
   ]
 }

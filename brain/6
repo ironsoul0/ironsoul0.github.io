@@ -1,11 +1,11 @@
 {
-  "name": "Silver 4",
-  "description": "Silver 4",
+  "name": "Middly brain",
+  "description": "The brain of average mining enjoyer.",
   "image": "https://ironsoul0.github.io/silver/brain4.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 17
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Gold 1",
-  "description": "Gold 1",
+  "name": "Geek brain",
+  "description": "The brain of the real geek.",
   "image": "https://ironsoul0.github.io/gold/brain1.gif",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 21
     }
   ]
 }
