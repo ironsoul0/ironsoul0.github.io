@@ -1,0 +1,11 @@
+{
+  "name": "Bronze 1",
+  "description": "Bronze1",
+  "image": "https://ironsoul0.github.io/bronze/brain1.png",
+  "attributes": [
+    {
+      "trait_type": "Difficuly",
+      "value": 3
+    }
+  ]
+}

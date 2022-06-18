@@ -1,0 +1,11 @@
+{
+  "name": "Silver 2",
+  "description": "Silver 2",
+  "image": "https://ironsoul0.github.io/silver/brain2.png",
+  "attributes": [
+    {
+      "trait_type": "Difficuly",
+      "value": 3
+    }
+  ]
+}

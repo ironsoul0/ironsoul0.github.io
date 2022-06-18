@@ -1,0 +1,11 @@
+{
+  "name": "Gold 2",
+  "description": "Gold 2",
+  "image": "https://ironsoul0.github.io/gold/brain2.gif",
+  "attributes": [
+    {
+      "trait_type": "Difficuly",
+      "value": 3
+    }
+  ]
+}
