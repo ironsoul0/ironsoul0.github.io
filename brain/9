@@ -1,11 +1,11 @@
 {
-  "name": "Gold 2",
-  "description": "Gold 2",
+  "name": "Jet brain",
+  "description": "The brain of the real jet man.",
   "image": "https://ironsoul0.github.io/gold/brain2.gif",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 23
     }
   ]
 }

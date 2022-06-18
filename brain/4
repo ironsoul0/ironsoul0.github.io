@@ -1,11 +1,11 @@
 {
-  "name": "Silver 2",
-  "description": "Silver 2",
+  "name": "Average brain",
+  "description": "The brain of experienced crypto dog.",
   "image": "https://ironsoul0.github.io/silver/brain2.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 13
     }
   ]
 }

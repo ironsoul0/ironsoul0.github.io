@@ -1,11 +1,11 @@
 {
-  "name": "Silver 1",
-  "description": "Silver 1",
+  "name": "Miner's brain",
+  "description": "The brain of average mining enjoyer.",
   "image": "https://ironsoul0.github.io/silver/brain1.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 12
     }
   ]
 }

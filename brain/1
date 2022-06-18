@@ -1,10 +1,10 @@
 {
-  "name": "Bronze 1",
-  "description": "Bronze1",
+  "name": "Smally brain",
+  "description": "The brains of crypto beginners.",
   "image": "https://ironsoul0.github.io/bronze/brain1.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
+      "trait_type": "Brain size",
       "value": 3
     }
   ]

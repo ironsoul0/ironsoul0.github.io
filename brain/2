@@ -1,11 +1,11 @@
 {
-  "name": "Bronze 2",
-  "description": "Bronze2",
+  "name": "Mini brain",
+  "description": "Another type of brains of crypto beginners.",
   "image": "https://ironsoul0.github.io/bronze/brain2.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 6
     }
   ]
 }

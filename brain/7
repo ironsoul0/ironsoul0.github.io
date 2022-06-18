@@ -1,11 +1,11 @@
 {
-  "name": "Silver 5",
-  "description": "Silver 5",
+  "name": "Minted brain",
+  "description": "The brain that undergo minting.",
   "image": "https://ironsoul0.github.io/silver/brain5.png",
   "attributes": [
     {
-      "trait_type": "Difficuly",
-      "value": 3
+      "trait_type": "Brain size",
+      "value": 18
     }
   ]
 }
